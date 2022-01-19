@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+table,th,tr,td{
+    margin: auto;
+    border: 2px solid black;
+    border-spacing: 5px;
+    padding: 15px;
+    border-collapse: collapse;
+    font-size: 15px;
+    background-color: lightgray;
+    margin-top: 100px;
+}
+
+.marking{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+
+.marks-obt{
+    background-color: crimson;
+    font-weight: bolder;
+    color: white;
+}
+
+th{
+    background-color: lawngreen;
+}
+
+td{
+    background-color: coral;
+}
+
+h1{
+    margin-top: 150px;
+    color: darkblue;
+}
+
+footer{
+    margin-top: 200px;
+    font-weight: bolder;
+    font-size: x-large;
+    color: darkblue;
+}
